@@ -1,0 +1,114 @@
+body {
+	margin: 0;
+	font-family: "Lexend Mega", sans-serif;
+	color: black;
+	background-color: white;
+	font-size: 22px;
+	text-align: center;
+}
+
+h2,
+h3,
+h4,
+p {
+	padding: 10px;
+	margin: 0;
+}
+
+.header {
+	display: flex;
+	flex-direction: column;
+}
+
+.nav {
+	display: flex;
+	justify-content: space-around;
+	margin: 0 10%;
+}
+
+.nav p {
+	text-decoration: underline;
+}
+
+.nav p:hover {
+	cursor: pointer;
+}
+
+.main {
+	opacity: 0.9;
+	padding-top: 35px;
+}
+
+#mission {
+	display: flex;
+	background-image: url("../images/skyscrapers.webp");
+	justify-content: center;
+	align-content: center;
+	flex-direction: column;
+	height: 300px;
+	padding-top: 35px;
+}
+
+#mission .content {
+	background-color: white;
+}
+
+#portfolio {
+	padding-top: 70px;
+}
+
+#portfolio .gallery {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+#portfolio .gallery .company {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+#portfolio .gallery .company img {
+	margin: auto;
+	width: 200px;
+	padding: 10px;
+	height: auto;
+}
+
+#portfolio .gallery .company span {
+	padding: 5px;
+	min-width: 240px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#team .content {
+	display: flex;
+	padding-top: 5px;
+	background-image: url("../images/blurred-road.jpg");
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#team .content .employee {
+	padding: 10px;
+	color: white;
+	flex-basis: 280px;
+}
+
+#team .content .employee img {
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	height: auto;
+}
+
+.contact {
+	padding-top: 20px;
+}
+
+.copyright {
+	padding-top: 20px;
+}
