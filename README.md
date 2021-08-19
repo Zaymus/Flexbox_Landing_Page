@@ -1,4 +1,4 @@
-#_Flexbox Landing Page_
+#_Title_
 
 ####_This is a site made with HTML, CSS and Javascript_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_This project acts as a demo landing page for a fake company that heavily utilizes flexbox for the layout of the web page._
+_Description._
 
 ## Table of Contents
 
@@ -20,15 +20,15 @@ _This project acts as a demo landing page for a fake company that heavily utiliz
 
 - _Open terminal or a similar app on your computer_
 - _change directory to where you want the files to be stored_
-- _copy <span>https://github.com/Zaymus/name</span>_
+- _copy <span>https://github.com/Zaymus/Flexbox_Landing_Page</span>_
 - _use git clone and paste that link after it to clone the repository_
 - _open the folder it provides_
 - _open the HTML folder inside_
-- _https://zaymus.github.io/name/_
+- _https://zaymus.github.io/Flexbox_Landing_Page/_
 
 ## Known Bugs <a name="bugs"></a>
 
-_bugs._
+_Since this project is just a landing page and is merely visual, there are no bugs. However, I would like to add media queries to work on smaller screen devices in portrait mode._
 
 ## Contact Details <a name="contact"></a>
 
