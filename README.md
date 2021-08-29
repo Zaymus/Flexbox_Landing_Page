@@ -1,12 +1,12 @@
-#_Title_
+# Flexbox Landing Page
 
-####_This is a site made with HTML, CSS and Javascript_
+#### _This is a site made with HTML, CSS and Javascript_
 
-####_Carson Brown_
+#### _Carson Brown_
 
 ## Description
 
-_Description._
+#### _This project is a basic landing page for a fake company that utilizes flexbox containers to create a responsive and organized layout._
 
 ## Table of Contents
 
